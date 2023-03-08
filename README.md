@@ -1,4 +1,4 @@
-# ChatGPT Web
+# ChatGPT Web.
 
 <div style="font-size: 1.5rem;">
   <a href="./README.md">中文</a> |
@@ -11,7 +11,7 @@
 ![cover](./docs/c1.png)
 ![cover2](./docs/c2.png)
 
-- [ChatGPT Web](#chatgpt-web)
+- [ChatGPT Web.](#chatgpt-web)
 	- [介绍](#介绍)
 	- [待实现路线](#待实现路线)
 	- [前置要求](#前置要求)
